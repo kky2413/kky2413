@@ -11,3 +11,6 @@ def rand_gen(arg1):
         return print(randint(3*arg1/4,arg1))
 
 print(rand_gen(2))    
+
+a=c
+print(c)
